@@ -1,0 +1,2 @@
+# strings
+String Data Type
