@@ -1,13 +1,10 @@
 # Strings
-String Data Type
+String is textual data type, for example name, paragraph, song, lyrics or etc... .
 
-## What is a String?
-String is textual data, for example name, paragraph, song, lyrics or etc... .
-
-## How do you declare a string in Python?
+## Declare a string in Python
 To create a string, put the sequence of characters inside either single quotes, or double quotes up to you
 
-### one line
+### One line
 ```
 name = 'salman'
 ```
@@ -15,7 +12,7 @@ name = 'salman'
 song = "please wake up"
 ```
 
-### multiple lines
+### Multiple lines
 ```
 paragraph = '''I am a person who is positive about every aspect of life. 
 There are many things I like to do, to see, and to experience. 
