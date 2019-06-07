@@ -38,6 +38,7 @@ Don't sleep away the morning light"""
 ## Finding how many characters are in string
 To find how many characters are in our string we used len method
 ``` 
+len("hi") # 2
 len(name) # 6
 len(song) # 14 
 ```
@@ -52,11 +53,15 @@ song[7] # w
 
 ## Access a range of characters
 To access a range of characters we used square brackets and pass two values the first one is value of start index and the second is value of end index and there is colon between they [start_index:end_index].
-``` lyrics[12:19] # ime by ```
-``` paragraph[6:11] #  pers```
+```
+lyrics[12:19] # ime by
+paragraph[6:11] #  pers
+```
 Note: The end index is not included
 
 If you do not pass the start index [:end_index] the start index will be 0 or If you do not pass the end index [start_index:] the end index will be equal to the length of your string.
-``` lyrics[:9] # I can tel ```
-``` paragraph[296:] # ight ```
+```
+lyrics[:9] # I can tel
+paragraph[296:] # ight
+```
 Note: This part call slicing
