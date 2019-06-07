@@ -59,7 +59,7 @@ paragraph[6:11] #  pers
 ```
 Note: The end index is not included
 
-If you do not pass the start index [:end_index] the start index will be 0 or If you do not pass the end index [start_index:] the end index will be equal to the length of your string.
+If you do not pass the start index [:end_index] the start index will be 0, If you do not pass the end index [start_index:] the end index will be equal to the length of your string.
 ```
 lyrics[:9] # I can tel
 paragraph[296:] # ight
