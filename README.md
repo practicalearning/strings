@@ -37,9 +37,11 @@ Don't sleep away the morning light"""
 
 ## Finding how many characters are in string
 To find how many characters are in our string we used len method
-``` len("hi") # 2
+``` 
+len("hi") # 2
 len(name) # 6
-len(song) # 14 ```
+len(song) # 14 
+```
 Note: The index in len start at 1 and the space is count
 
 ## Access strings characters individually
