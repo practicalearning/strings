@@ -38,16 +38,18 @@ Don't sleep away the morning light"""
 ## Finding how many characters are in string
 To find how many characters are in our string we used len method
 ``` 
-len("hi") # 2
-len(name) # 6
-len(song) # 14 
+len("hi")
+len(name)
+len(song)
 ```
 Note: The index in len start at 1 and the space is count
 
 ## Access strings characters individually
 To access strings characters individually we used square brackets and pass the value of index [index], The index of string in python start at 0 which mean the index of first letter is 0
-``` name[0] # s ```
-``` song[7] # w ```
+``` 
+name[0] # s
+song[7] # w 
+```
 
 ## Access a range of characters
 To access a range of characters we used square brackets and pass two values the first one is value of start index and the second is value of end index and there is colon between they [start_index:end_index].
